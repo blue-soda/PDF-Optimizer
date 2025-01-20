@@ -26,7 +26,7 @@
 - **Python**: For image processing and PDF optimization logic.
 - **PyMuPDF (fitz)**: For extracting images from PDFs.
 - **OpenCV**: For image processing (filtering, sharpening, etc.).
-- **Real-ESRGAN**: For image super-resolution (model source: [Real-ESRGAN](https://github.com/sberbank-ai/Real-ESRGAN.git)).
+- **Real-ESRGAN**: For image super-resolution (model source: [Real-ESRGAN](https://github.com/sberbank-ai/Real-ESRGAN.git) License: [BSD 3-Clause License](BSD_LICENSE)).
 
 ---
 
