@@ -59,13 +59,17 @@ flutter run
 ```
 
 ### 2. Using the App
-#### Upload PDF: Click the "Upload PDF" button to select a PDF file for optimization.
+#### Upload PDF: 
+Click the "Upload PDF" button to select a PDF file for optimization.
 
-#### Select Optimization Options: Drag and drop optimization options into the pipeline area and configure parameters.
+#### Select Optimization Options:
+Drag and drop optimization options into the pipeline area and configure parameters.
 
-#### Optimize Images: Click the "Optimize Image" button to view the before-and-after comparison of the images.
+#### Optimize Images: 
+Click the "Optimize Image" button to view the before-and-after comparison of the images.
 
-#### Output PDF: Click the "Output PDF" button to save the optimized images as a new PDF file.
+#### Output PDF: 
+Click the "Output PDF" button to save the optimized images as a new PDF file.
 ---
 
 ## Optimization Options
