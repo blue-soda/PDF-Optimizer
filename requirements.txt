@@ -1,0 +1,8 @@
+Pillow>=9.0.0
+pymupdf>=1.20.0
+tqdm>=4.64.0
+more-itertools>=8.12.0
+numpy>=1.22.0
+opencv-python>=4.5.0
+torch>=1.10.0
+git+https://github.com/sberbank-ai/Real-ESRGAN.git
