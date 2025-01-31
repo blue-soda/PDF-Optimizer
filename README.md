@@ -70,6 +70,7 @@ Click the "Optimize Image" button to view the before-and-after comparison of the
 
 #### Output PDF: 
 Click the "Output PDF" button to save the optimized images as a new PDF file.
+
 ---
 
 ## Optimization Options
