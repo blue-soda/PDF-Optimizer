@@ -85,4 +85,4 @@ Click the "Output PDF" button to save the optimized images as a new PDF file.
 
 ## License
 
-This project is open-source under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is open-source under the BSD 3-Clause License. See the [LICENSE](LICENSE) file for details.
